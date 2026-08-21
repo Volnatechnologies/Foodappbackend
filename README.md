@@ -1,6 +1,3 @@
- A cleanly formatted, production-ready `README.md` for your repository. Copy and paste the Markdown block below directly into your project's `README.md` file.
-
-```markdown
 # UserService Backend Application
 
 A Spring Boot microservice for the **Volna Food Delivery Backend**, responsible for authenticated user profile management and delivery address management.
